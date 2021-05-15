@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566066832890",
+    "project_id": "pdf-online-aae6c",
+    "storage_bucket": "pdf-online-aae6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566066832890:android:9a88ebef407b960bbe3043",
+        "android_client_info": {
+          "package_name": "mathiasmendoza.pdf_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566066832890-o2ko8eg95oecchlgoor118p6720a32aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mathiasmendoza.pdf_application",
+            "certificate_hash": "b451e873cca2245c01c14bef5db6a2afc05dfb5c"
+          }
+        },
+        {
+          "client_id": "566066832890-bvkhf64d384dvv6bhl3a6k4ih1f5bhln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUJP1o2j1Nx_OmIy34BTxCZ2usyVkhq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566066832890-bvkhf64d384dvv6bhl3a6k4ih1f5bhln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
